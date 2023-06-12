@@ -1,0 +1,10 @@
+* curly
+
+Common Lisp reader macros for easy function currying and composition
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mpasternacki/curly.git   |
+| commit  | 9476259  |
+| systems | curly |
+|---------+-------------------------------------------|
+
